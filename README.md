@@ -1,7 +1,7 @@
 ### Hello! My name is Henrique Lopes 👋
 
-- 👨🏻‍💻 Information Technology Student
-- 🖥️ Front-End Developer in progress
+- 👨🏻‍💻 Information Technology Student.
+- 🖥️ Front-End Developer in progress.
 
 ##
 
