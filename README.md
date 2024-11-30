@@ -9,7 +9,7 @@
   <a href="https://github.com/HenriqueLps896">
   <img height="180em" src="https://streak-stats.demolab.com/?user=HenriqueLps896&count_private=true&theme=chartreuse-dark&border_radius=10" alt="streak stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueLps896&show_icons=true&hide_rank=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLps896&layout=compact&langs_count=16&theme=chartreuse-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLps896&layout=compact&langs_count=6&theme=chartreuse-dark" />
 </div>
 
 <hr/>
